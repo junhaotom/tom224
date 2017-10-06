@@ -1,0 +1,11 @@
+w1="all"
+w2="work"
+w3="and"
+w4="no"
+W5="play"
+w6="makes"
+w7="jack"
+w8="a"
+w9="dull"
+w10="boy"
+print(w1+w2+w3+w4+w5+W6+W7+W8+W9+W10)
